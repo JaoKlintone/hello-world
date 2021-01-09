@@ -1,2 +1,4 @@
 # hello-world
-Hello World repository to get familiar with GitHub
+Hello World repository to get me familiar with GitHub
+
+I'm Dane from Serbia.
